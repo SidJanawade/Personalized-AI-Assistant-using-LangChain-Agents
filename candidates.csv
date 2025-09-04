@@ -1,0 +1,11 @@
+name,email,skills,status,experience,department,location
+Alice,alice@example.com,"Python,ML",Applied,2,Data Science,Bangalore
+Bob,bob@example.com,"Java,Spring",Interviewed,4,Backend,Chennai
+Charlie,charlie@example.com,"SQL,PowerBI",Hired,3,BI,Hyderabad
+David,david@example.com,"Python,Django",Applied,5,Web Dev,Mumbai
+Eva,eva@example.com,"JavaScript,React",Hired,1,Frontend,Delhi
+Frank,frank@example.com,"Python,Flask",Interviewed,3,Backend,Pune
+Grace,grace@example.com,"HTML,CSS,JavaScript",Applied,2,Frontend,Noida
+Hannah,hannah@example.com,"Java,Spring Boot",Hired,6,Backend,Kolkata
+Irene,irene@example.com,"C#,Azure",Applied,4,Cloud,Ahmedabad
+Jack,jack@example.com,"Go,Docker,Kubernetes",Shortlisted,5,DevOps,Chandigarh
